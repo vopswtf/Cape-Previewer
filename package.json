@@ -1,0 +1,15 @@
+{
+  "name": "cape-preview",
+  "version": "1.0.0",
+  "description": "Easy way to make preview images of your capes.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "ItsVops",
+  "license": "ISC",
+  "dependencies": {
+    "puppeteer": "^10.4.0",
+    "readline-sync": "^1.4.10"
+  }
+}
