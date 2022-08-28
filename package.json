@@ -6,7 +6,7 @@
   "scripts": {
     "start": "node index.js"
   },
-  "author": "ItsVops",
+  "author": "vopswtf",
   "license": "ISC",
   "dependencies": {
     "puppeteer": "^10.4.0",
