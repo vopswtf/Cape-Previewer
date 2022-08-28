@@ -4,7 +4,7 @@ Create quick preview images of your capes.
 <img width="200" src="https://i.imgur.com/53XoO4j.png">
 
 ## Instructions
-Download the [Release](https://github.com/ItsVops/Cape-Previewer/releases/download/1.0.0/Release.1.0.0.zip)
+Download the [Release](https://github.com/vopswtf/Cape-Previewer/releases/download/1.0.0/Release.1.0.0.zip)
 
 Extract somewhere.
 
